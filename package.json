@@ -1,0 +1,20 @@
+{
+  "name": "das",
+  "version": "1.0.0",
+  "description": "dsa solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbosa-07/dsa.git"
+  },
+  "author": "Rizwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbosa-07/dsa/issues"
+  },
+  "homepage": "https://github.com/barbosa-07/dsa#readme",
+  "dependencies": {}
+}
